@@ -7,6 +7,8 @@ Tugas ini dibuat dengan menggunakan
  - Aplikasi QGIS
  
  NPM  : 1194059
+ 
  Nama : Muhammad Rizal Supriadi
+ 
  Kelas: D4TI 3B
  
